@@ -16,7 +16,7 @@
 ## 如何查看
 
 要查看简历，只需访问与本仓库关联的GitHub Pages链接：
-`https://<your-github-username>.github.io/resume/`
+`[https://<your-github-username>.github.io/resume/](https://codelvoe.github.io/ZzjPege/)`
 
 ## 贡献
 
